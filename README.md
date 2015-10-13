@@ -3,6 +3,8 @@ refactoringMovies
 
 This is a worked refactoring exercise, based on the [refactoring movies example](http://www.slideshare.net/liufabin66688/refactoring-example) by Sherif Ghali.
 
+I originally presented this refactoring example during a talk to new entrants to my company in 2014. These [slides](refactoringBootcamp.pdf) accompanied the talk.
+
 # Getting the Initial Code #
 
 The code for this example is available from the [refactoring movies git repo](https://github.com/ludwiggj/refactoringMovies.git):
